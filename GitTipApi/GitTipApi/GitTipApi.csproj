@@ -45,6 +45,8 @@
     <Compile Include="GitTipClient.cs" />
     <Compile Include="Models\ChartsItem.cs" />
     <Compile Include="Models\ChartsResponse.cs" />
+    <Compile Include="Models\StatsResponse.cs" />
+    <Compile Include="Models\StatsStatement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
