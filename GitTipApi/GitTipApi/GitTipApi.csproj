@@ -47,6 +47,8 @@
     <Compile Include="Models\ChartsResponse.cs" />
     <Compile Include="Models\StatsResponse.cs" />
     <Compile Include="Models\StatsStatement.cs" />
+    <Compile Include="Models\StatsTipDistribution.cs" />
+    <Compile Include="Models\StatsTipDistributionItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
