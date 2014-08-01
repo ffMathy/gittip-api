@@ -8,5 +8,16 @@ namespace GitTipApi
 {
     public class GitTipClient
     {
+        public string ApiKey { get; set; }
+
+        public GitTipClient()
+        {
+            
+        }
+        
+        public GitTipClient(string apiKey)
+        {
+            ApiKey = apiKey;
+        }
     }
 }

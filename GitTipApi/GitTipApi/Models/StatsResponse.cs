@@ -11,7 +11,5 @@ namespace GitTipApi.Models
         public double AverageTip { get; set; }
         public double AverageTippees { get; set; }
         public double Escrow { get; set; }
-
-        public 
     }
 }
